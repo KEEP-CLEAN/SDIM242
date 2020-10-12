@@ -36,15 +36,14 @@ if __name__ == "__main__":
     setup(0x48) 
  
     while True:
-        print ('kk  AIN0 = ', read(0))  
-#         print 'll AIN1 = ', read(1)  
-#         print 'hh AIN2 = ', read(2)
+#        print ('kk  AIN0 = ', read(0))  
         
         tmp = read(0)
-        tmp = tmp*(255-125)/255+125
-        if(read(0)>117):
+        tmp = tmp*3
+        print ('tmp = ', tmp)
+        if(tmp>50):
             GPIO.output(7,GPIO.HIGH)
-        if(read(0)<117):
+        if(tmp<50):
             GPIO.output(7,GPIO.LOW)
         write(tmp)
         time.sleep(0.1)
