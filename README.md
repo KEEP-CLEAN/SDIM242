@@ -4,11 +4,22 @@
 
 
 
-### ·Code for final presentation
+### 1.Code for final presentation
 #### This section is basically the final product of our code, and there are only three main files, namely
-##### ·transmit 
-##### ·recipt signal
-##### ·drive motor 
+##### a）transmit 
+##### b)recipt signal
+##### c)drive motor 
 
 
 
+### 2.Individuals 
+#### We put code of bitesize here. Thus, this section witnessed every group memebers' progress.
+
+
+
+### 3.Pictures
+#### This is where we used to keep our photos. However, NAS is a better place to store, so there is not many pictures.
+
+
+
+Finally, thank you for your patronage
