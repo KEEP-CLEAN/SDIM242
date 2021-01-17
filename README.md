@@ -12,7 +12,7 @@
 
 
 
-### 2.Individuals 
+### 2.Individual
 #### We put code of bitesize here. Thus, this section witnessed every group memebers' progress.
 
 
