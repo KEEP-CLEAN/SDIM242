@@ -1,8 +1,13 @@
 # SDIM242
-# Weclcome to KEEP CLEAN’s secret base.
+# Weclcome to KEEP CLEAN’s secret base！
 
-# 我将会为您介绍不同部分的作用
+## We have three sections altogether, and I will introduce each one to you
 
-·Code for final presentation
------
+### ·Code for final presentation
+#### This section is basically the final product of our code, and there are only three main files, namely
+##### ·transmit 
+##### ·recipt signal
+##### ·drive motor 
+
+
 
