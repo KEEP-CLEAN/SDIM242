@@ -22,4 +22,3 @@
 
 
 
-Finally, thank you for your patronage
