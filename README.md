@@ -18,7 +18,7 @@
 
 
 ### 3.Pictures
-#### This is where we used to keep our photos. However, NAS is a better place to store, so there is not many pictures.
+#### This is where we used to keep our photos. However, NAS is a better place to store, so there is not many pictures.  
 
 
 
