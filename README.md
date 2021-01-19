@@ -21,6 +21,6 @@
 #### This is where we used to keep our photos. However, NAS is a better place to store, so there aren't many pictures here
 
 
-
+![image](https://github.com/KEEP-CLEAN/SDIM242/blob/master/pictures/31ae86ca1d5cb04c43fc4c5a6f491e6.jpg)
 
 
